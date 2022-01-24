@@ -9,7 +9,7 @@ Official PyTorch implementation of the Recursive Multi-Scale Channel-Spatial Att
 
  - Linux and Windows are supported.
  - Python >= 3.7.0, PyTorch >= 1.4.0
- - timm = 0.1.26
+ - Timm = 0.1.26
 
 ## Usage
 
