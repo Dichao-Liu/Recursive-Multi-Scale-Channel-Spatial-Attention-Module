@@ -1,7 +1,7 @@
 # Recursive Multi-Scale Channel-Spatial Attention Module (RMCSAM)
 
 
-Official PyTorch implementation of the Recursive Multi-Scale Channel-Spatial Attention Module (RMCSAM). RMCSAM is a lightweight and insertable attention module designed for the fine-grained image classification (FGIC) task. RMCSAM can be easily embedded into various backbone convolutional neural networks (CNNs) to improve the classification accuracy for the FGIC task. You may check more details in our [paper](https://www.jstage.jst.go.jp/article/transinf/E105.D/3/E105.D_2021EDP7166/_pdf) if you are interested in our work.
+Official PyTorch implementation of the Recursive Multi-Scale Channel-Spatial Attention Module (RMCSAM). RMCSAM is a lightweight and insertable attention module designed for the fine-grained image classification (FGIC) task. RMCSAM can be easily embedded into various backbone convolutional neural networks (CNNs) to improve the classification accuracy for the FGIC task. You may check more details in [our paper published in *IEICE Transactions on Information and Systems*](https://www.jstage.jst.go.jp/article/transinf/E105.D/3/E105.D_2021EDP7166/_pdf) if you are interested in our work.
 
 ![The overview of RMCSAM.](https://github.com/Dichao-Liu/Recursive-Multi-Scale-Channel-Spatial-Attention-Module/blob/main/IEICE2022_.Attention_Module.jpg)
 
