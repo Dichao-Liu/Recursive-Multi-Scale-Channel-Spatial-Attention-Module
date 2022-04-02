@@ -28,8 +28,7 @@ Please cite our paper if you use RMCSAM in your work.
   volume={105},
   number={3},
   pages={713--726},
-  year={2022},
-  publisher={The Institute of Electronics, Information and Communication Engineers}
+  year={2022}
 }
 
 ```
